@@ -1,0 +1,22 @@
+
+
+.main{
+  
+    background-image: url(images/aaa.png);
+    opacity: 0.8;
+   height: 100%;
+   background-size: cover;
+   background-position: center;
+}
+.main .footer .ul .li .a {
+    background-color: black;
+}
+.aaa{
+    background-color: #FFFBEE;
+    border-radius: 20%;
+    color:#5887FF ;
+}
+.header{
+    background-color: crimson;
+    color:blue;
+}
